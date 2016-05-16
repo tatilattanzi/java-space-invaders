@@ -42,7 +42,7 @@ public class Board extends JPanel implements Runnable, Commons {
 	private boolean havewon = true;
 	private final String expl = "/img/explosion.png";
 	private final String alienpix = "/img/alien.png";
-	private String message = "Sua base nos pertence agora...";
+	private String message = "Seu planeta nos pertence agora...";
 
 	private Thread animator;
 
