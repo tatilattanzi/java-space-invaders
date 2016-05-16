@@ -9,9 +9,22 @@ invaders.
 
 #Controls
 Go Left: Left Arrowkey;
+
 Go Right: Right Arrowkey;
+
 Shot: Spacebar;
 
 
 
 #Have fun! ;)
+
+
+#Game Screens
+
+![Initial Screen](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-initial-screen.png)
+
+![Game Screen](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-game-screen.png)
+
+![GameOver](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-gameover-screen.png)
+
+![Won](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-won-screen.png)
