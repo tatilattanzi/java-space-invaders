@@ -21,10 +21,10 @@ Shot: Spacebar;
 
 #Game Screens
 
-![Initial Screen](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-initial-screen.png)
+![Initial Screen] (https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-initial-screen.png)
 
-![Game Screen](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-game-screen.png)
+![Game Screen](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-game-screen.png)
 
-![GameOver](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-gameover-screen.png)
+![GameOver](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-gameover-screen.png)
 
-![Won](https://github.com/tatilattanzi/space-invaders/tree/master/screens/space-invaders-won-screen.png)
+![Won](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-won-screen.png)
