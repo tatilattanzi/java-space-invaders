@@ -2,12 +2,12 @@
 A simple Java 2D game clone.
 
 
-#The game
+# The game
 Space Invaders is an arcade video game designed by Tomohiro Nishikado. It was first released in 1978. The player controls a cannon. He is about to save the Earth from invasion of evil space 
 invaders.
 
 
-#Controls
+# Controls
 Go Left: Left Arrowkey;
 
 Go Right: Right Arrowkey;
@@ -16,12 +16,12 @@ Shot: Spacebar;
 
 
 
-#Have fun! ;)
+# Have fun! ;)
 
 
-#Game Screens
+# Game Screens
 
-![Initial Screen] (https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-initial-screen.png)
+![Initial Screen](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-initial-screen.png)
 
 ![Game Screen](https://raw.githubusercontent.com/tatilattanzi/space-invaders/master/screens/space-invaders-game-screen.png)
 
